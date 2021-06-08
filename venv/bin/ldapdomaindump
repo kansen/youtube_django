@@ -1,0 +1,3 @@
+#!/Users/kansenwu/PycharmProjects/django_youtube/venv/bin/python
+import ldapdomaindump
+ldapdomaindump.main()
